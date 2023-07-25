@@ -1,0 +1,155 @@
+cover:
+  height_scheme: full # full, half
+  layout_scheme: search # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)，个人感觉搜索更简洁
+  display:
+    home: true
+    archive: true
+    others: true # can be written in front-matter 'cover: true'
+  background: /img/bg1.png
+  # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
+  logo:  # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
+  title: 地球人生游记
+  subtitle: 一个地球码农，构建一个位于地球互联网边缘的小站
+  url: /
+  search: 搜一下 # search bar placeholder 搜索栏里面显示的东西
+  features:
+    - name: 所见（游记）
+      icon: #
+      url: /categories/所见（游记）/
+    - name: 所得（指南）
+      icon: #
+      url: /categories/所得（指南）/
+    - name: 修行（超脱）
+      icon: #
+      url: /xiuxing/
+    - name: 手作和收藏
+      icon: #
+      url: /zuopin/
+
+navbar:
+  visiable: auto # always, auto
+  logo: # choose [img] or [icon + title]
+    img: #img/logo.png # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+    icon: fa-solid fa-home
+    title: 地球人生小站
+  menu:
+    - name: 所见（游记）
+      icon: fa-solid fa-bus
+      url: /categories/所见（游记）/
+    - name: 所得（指南）
+      icon: fa-solid fa-book
+      url: /categories/所得（指南）/
+    - name: 修行（超脱）
+      icon: fa-solid fa-power-off
+      url: /xiuxing/
+    - name: 手作和收藏
+      icon: fa-solid fa-archive
+      url: /zuopin/
+
+sidebar:
+  position: left # left right
+  # 主页、分类、归档等独立页面
+  for_page: [blogger, guide, category, tagcloud, webinfo, lastupdate]
+  # layout: docs/post 这类文章页面
+  for_post: [toc]
+  # 侧边栏组件库
+  widget_library:
+    # ---------------------------------------
+    # blogger info widget
+    blogger:
+      class: blogger
+      display: [desktop, mobile] # [desktop, mobile]
+      avatar: /img/avter.jpg #你的头像url # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+      shape: rectangle # circle, rectangle
+      url:
+      title:
+      subtitle: 一个位于地球互联网边缘的小站
+      jinrishici: false # Poetry Today. You can set a string, and it will be displayed when loading fails.
+      social:
+        - icon: fa-solid fa-envelope
+          url: mailto:xtntrnax@gmail.com
+        - icon: fab fa-qq
+          url: mailto:xtntrnax@gmail.com
+        - icon: fab fa-github
+          url: mailto:xtntrnax@gmail.com
+        - icon: fab fa-weixin
+          url: mailto:xtntrnax@gmail.com
+
+    # category widget
+    category:
+      class: category
+      display: [desktop] # [desktop, mobile]
+      header:
+        icon: fa-solid fa-folder-open
+        title: 文章分类
+        url: /categories/
+
+    guide:
+      class: grid
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-solid fa-map-signs
+        title: 内容导读
+      fixed: true # 固定宽度
+      rows:
+        - name: 鸟瞰图
+          icon: fa-regular fa-map
+          url: /map/
+        - name: 时间线
+          icon: fa-regular fa-calendar
+          url: /timeline/
+        - name: 修行相关
+          icon: fa-solid fa-power-off
+          url: /xiuxing/
+
+
+    suode:
+      class: group
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-regular fa-list-alt
+        title: 文档导航
+
+
+article:
+  preview:
+    scheme: landscape # landscape
+    # pin icon for post
+    pin_icon: # volantis-static/media/twemoji/assets/svg/1f4cc.svg
+    # auto generate title if not exist
+    # auto generate excerpt if not exist
+    author: true
+    # show readmore button
+    readmore: auto # auto, always
+
+plugins:
+  aplayer:
+    enable: true
+    autoplay: true
+    volume: 0.3
+    order: random
+    # id: 4917530132 # vol red
+    # id: 4917524698 # vol blue
+    # id: 76244489 # vol white
+    # id: 5135845906 # for Volantis 3.0
+    id: 5062959861 # TOP 30
+  message:          # 音乐通知，播放、暂停、失败 时的图标
+    enable: true
+    icon:     # 默认图标，支持对图标添加颜色，可选值：see：/source/css/_plugins/message.styl
+      default: fa-light fa-info-circle light-blue
+      quection: fa-light fa-question-circle light-blue
+    copyright:  # 是否在复制时弹出版权提示
+      enable: false
+      title: '知识共享许可协议'
+      message: '请遵守 CC BY-NC-SA 4.0 协议。'
+      icon: 'fa-brands fa-creative-commons light-blue'
+    aplayer:
+      enable: true
+      play: fa-light fa-play light-blue
+      pause: fa-light fa-pause light-blue
+      error: fa-light fa-exclamation-square red
+
+site_footer:
+  layout: [aplayer, social, source, analytics, copyright]
+  copyright: '[Copyright © Since 2022 地球人生游记](https://github.com/volantis-x/)'
+
