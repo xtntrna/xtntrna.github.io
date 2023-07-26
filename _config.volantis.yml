@@ -9,7 +9,7 @@ cover:
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo:  # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: 地球人生游记
-  subtitle: 一个地球码农，构建一个位于地球互联网边缘的小站
+  subtitle: 一个地球码农，搭建的位于地球互联网边缘的小站
   url: /
   search: 搜一下 # search bar placeholder 搜索栏里面显示的东西
   features:
@@ -102,14 +102,12 @@ sidebar:
           icon: fa-solid fa-power-off
           url: /xiuxing/
 
-
     suode:
       class: group
       display: [desktop, mobile] # [desktop, mobile]
       header:
         icon: fa-regular fa-list-alt
         title: 文档导航
-
 
 article:
   preview:
@@ -150,6 +148,6 @@ plugins:
       error: fa-light fa-exclamation-square red
 
 site_footer:
-  layout: [aplayer, social, source, analytics, copyright]
+  layout: [aplayer, social, analytics, copyright]
   copyright: '[Copyright © Since 2022 地球人生游记](https://github.com/volantis-x/)'
 
