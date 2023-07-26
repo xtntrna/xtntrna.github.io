@@ -22,7 +22,7 @@ toc: false
 
 <br>
 该站的创建纯粹是一个偶然，源于一个无法回避的触动，它是一切的起点。
-{% link 那个让人无法回避的触动是什么？::/2023/05/23/qd1/::/img/book.svg %}
+{% link 本站的来历，这一切的起点::/2023/05/23/qd1/::/img/book.svg %}
 
 <br>
 {% btn solid large center, 本站鸟瞰图，点击了解, /map/, fa fa-flag %}
