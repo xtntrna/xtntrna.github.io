@@ -148,6 +148,6 @@ plugins:
       error: fa-light fa-exclamation-square red
 
 site_footer:
-  layout: [aplayer, social, analytics, copyright]
+  layout: [social, analytics, copyright]
   copyright: '[Copyright © Since 2022 地球人生游记](https://github.com/volantis-x/)'
 
