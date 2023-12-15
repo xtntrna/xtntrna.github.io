@@ -9,7 +9,7 @@ cover:
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo:  # https://gcore.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: 地球人生游记
-  subtitle: 一个地球码农，搭建的位于地球互联网边缘的小站
+  subtitle: 一个地球人记录的关于这个世界的观察。
   url: /
   search: 搜一下 # search bar placeholder 搜索栏里面显示的东西
   features:
