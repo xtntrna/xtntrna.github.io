@@ -13,12 +13,14 @@ toc: false
 ---
 
 <p>
-{% span logo center large, 致亲爱的读者 %}
+{% span logo center large, 本站的主要内容 %}
 </p>
 
 <br>
 
-这是一个关于“道”的网站。
+![sitemap01](img/world.png)
+
+
 
 <br>
 1. 该站的创建纯粹是一个偶然，源于一个无法回避的触动，它是一切的起点。
