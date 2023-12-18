@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8d8ccc8-3d83-4d2d-bc7a-cd953122e38b" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/source/img/world.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.volantis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.volantis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2017/10/24/start/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2017/10/24/start/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2023/05/23/qd1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2023/05/23/qd1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2023/06/20/whatisdao/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2023/06/20/whatisdao/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2023/06/24/duiqi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2023/06/24/duiqi/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2023/07/20/dao/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2023/07/20/dao/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/2023/07/20/xiuxing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/2023/07/20/xiuxing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/10/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2017/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2023/05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2023/05/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2023/06/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2023/06/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2023/07/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2023/07/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/2023/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/2023/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/archives/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/所得（指南）/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/所得（指南）/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/所见（游记）/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/所见（游记）/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/站点指引/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/站点指引/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/map/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/map/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/timeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/timeline/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/start.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/start.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -231,12 +209,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/创作天地/xtntrna.github.io/source/img",
+    "last_opened_file_path": "D:/创作天地/xtntrna.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -279,6 +258,7 @@
       <workItem from="1702608966536" duration="3406000" />
       <workItem from="1702737524214" duration="2311000" />
       <workItem from="1702800850576" duration="2912000" />
+      <workItem from="1702867014375" duration="7873000" />
     </task>
     <servers />
   </component>
@@ -360,6 +340,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/source/CNAME">
