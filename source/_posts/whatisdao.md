@@ -6,6 +6,7 @@ short_title: 3. 什么是"道"
 order: 3
 author: wanp
 date: 2023-06-20 17:11:09
+pin: true
 group: suode
 category: 所得（指南）
 sidebar: [guide, category, suode, toc]
