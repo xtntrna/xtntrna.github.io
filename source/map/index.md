@@ -16,6 +16,11 @@ sidebar: [guide, category, suode, toc]
 以下小短文是本站默认使用的常识，可以先阅读，对齐我们的常识。
 {% link 本站默认使用的常识::/2023/06/24/duiqi/::/img/book.svg %}
 
+
+![sitemap01](img/world.png)
+
+
+
 ## 一、两个根本问题
 目前我们大多数的困惑和大多数的困扰皆是源自以下两个问题：
 
