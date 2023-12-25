@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/start.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/start.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/img/002.png" beforeDir="false" afterPath="$PROJECT_DIR$/source/img/002.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,6 +265,7 @@
       <workItem from="1703063985373" duration="3520000" />
       <workItem from="1703124719272" duration="6090000" />
       <workItem from="1703210489103" duration="5045000" />
+      <workItem from="1703473649337" duration="12699000" />
     </task>
     <servers />
   </component>
