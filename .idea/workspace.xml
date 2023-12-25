@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f8d8ccc8-3d83-4d2d-bc7a-cd953122e38b" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/start.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/start.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -266,6 +265,7 @@
       <workItem from="1703124719272" duration="6090000" />
       <workItem from="1703210489103" duration="5045000" />
       <workItem from="1703473649337" duration="12699000" />
+      <workItem from="1703496763462" duration="60000" />
     </task>
     <servers />
   </component>
