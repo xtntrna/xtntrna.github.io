@@ -109,6 +109,15 @@ sidebar:
         icon: fa-regular fa-list-alt
         title: 文档导航
 
+    map_guide:
+      class: group
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-regular fa-list-alt
+        title: 文档导航1
+
+
+
 article:
   preview:
     scheme: landscape # landscape
