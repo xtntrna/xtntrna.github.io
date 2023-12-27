@@ -7,7 +7,7 @@ bottom_meta: false
 author: wanp
 group: suode
 order: 6
-categories: [站点指引]
+categories: [阅读指引]
 date: 2023-06-24
 sidebar: [guide, category, suode, toc]
 ---

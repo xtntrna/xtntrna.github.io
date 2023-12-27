@@ -5,7 +5,7 @@ robots: noindex,nofollow
 top_meta: false
 bottom_meta: false
 author: wanp
-categories: [站点指引]
+categories: [阅读指引]
 pin: true
 comments: false
 toc: false
