@@ -2,7 +2,7 @@
 layout: post
 title: 为什么会有这个站点，因为那个让人无法回避的“触动”
 author: wanp
-category: 所见（游记）
+category: [游记]
 date: 2023-05-23
 ---
 

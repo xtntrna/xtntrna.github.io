@@ -1,15 +1,15 @@
 ---
 layout: post
 seo_title: 本站默认使用的常识
-short_title: 1. 本站默认使用的常识
+short_title: 2.常识对齐--本站默认使用的常识
 top_meta: false
 bottom_meta: false
 author: wanp
-group: suode
-order: 6
+group: map_guide
+order: 2
 categories: [阅读指引]
 date: 2023-06-24
-sidebar: [guide, category, suode, toc]
+sidebar: [guide, category, map_guide, toc]
 ---
 
 本站默认使用的常识介绍。

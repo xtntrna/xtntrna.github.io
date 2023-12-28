@@ -8,7 +8,7 @@ author: wanp
 date: 2023-06-20 17:11:09
 pin: true
 group: suode
-category: 所得（指南）
+category: [指南]
 sidebar: [guide, category, suode, toc]
 ---
 ## 一、前言

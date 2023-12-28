@@ -92,15 +92,15 @@ sidebar:
         title: 内容导读
       fixed: true # 固定宽度
       rows:
-        - name: 鸟瞰图
+        - name: 阅读地图
           icon: fa-regular fa-map
           url: /map/
-        - name: 时间线
-          icon: fa-regular fa-calendar
-          url: /timeline/
         - name: 修行相关
           icon: fa-solid fa-power-off
           url: /xiuxing/
+        - name: 收藏应用
+          icon: fa-solid fa-microchip
+          url: /timeline/
 
     suode:
       class: group
@@ -116,6 +116,12 @@ sidebar:
         icon: fa-regular fa-list-alt
         title: 阅读指引
 
+    normal_guide:
+      class: group
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-regular fa-list-alt
+        title: 地球人生指南/实用主义路径
 
 
 article:

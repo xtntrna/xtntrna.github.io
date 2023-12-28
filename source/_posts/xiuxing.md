@@ -6,7 +6,7 @@ author: wanp
 date: 2023-07-20 17:11:09
 group: suode
 order: 5
-category: 所得（指南）
+category: [修行]
 ---
 
 sdfadfa
