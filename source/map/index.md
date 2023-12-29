@@ -1,7 +1,7 @@
 ---
 layout: post
-seo_title: 本站鸟瞰图
-short_title: 1.本站鸟瞰图
+seo_title: 本站阅读地图
+short_title: 1.本站阅读地图
 author: wanp
 group: map_guide
 categories: [阅读指引]
@@ -10,7 +10,7 @@ sidebar: [guide, category, map_guide, toc]
 ---
 
 <p>
-{% span logo center large, 本站鸟瞰图 %}
+{% span logo center large, 本站阅读地图 %}
 </p>
 
 {% noteblock guide::本站的来源和内容简介 %}
@@ -59,7 +59,7 @@ sidebar: [guide, category, map_guide, toc]
 
 让我们一起去接近那些个我们想都不曾想也不敢想的问题。
 <br>
-{% btn solid large center, 点击阅读, /map001, fa fa-flag %}
+{% btn solid large center, 点击阅读, ./map001, fa fa-flag %}
 
 ### 3. 中国传统文化路径
 适合中华传统文化爱好者的阅读路径，理解中华传统文化的关键概念，知识和相关内容。
@@ -71,12 +71,12 @@ sidebar: [guide, category, map_guide, toc]
 
 古人的思维确实已经有触达那两个根本问题，作者带读者们一起去体会古人简洁优美的智慧。
 <br>
-{% btn solid large center, 点击阅读, /map002, fa fa-flag %}
+{% btn solid large center, 点击阅读, ./map002, fa fa-flag %}
 
 ### 4. 哲学和科学路径
 因为现代教育的普及，科学方法论的思想已经深入人心，这是我们最好的凭借，借助已知的理论、理性思维和工具我们可以站到更高处来俯视我们这个世界，迅速发现问题并且接近我们想要的答案。
 <br>
-{% btn solid large center, 点击阅读, /map003, fa fa-flag %}
+{% btn solid large center, 点击阅读, ./map003, fa fa-flag %}
 
 
 

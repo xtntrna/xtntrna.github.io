@@ -89,7 +89,7 @@ sidebar:
       display: [desktop, mobile] # [desktop, mobile]
       header:
         icon: fa-solid fa-map-signs
-        title: 内容导读
+        title: 站点导航
       fixed: true # 固定宽度
       rows:
         - name: 阅读地图

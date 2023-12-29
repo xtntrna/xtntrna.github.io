@@ -8,14 +8,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.volantis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.volantis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/dao.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/dao.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/duiqi.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/duiqi.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/map001.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/map001.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/map002.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/map002.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/map003.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/map003.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/qd1.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/qd1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/whatisdao.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/whatisdao.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/xiuxing.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/xiuxing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/map001.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/map/map001.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/map002.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/map/map002.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/map003.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/map/map003.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/read.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/read.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/map/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/map/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -237,6 +233,7 @@
       <recent name="D:\user\xtntrna.github.io\source\wiki\test" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\创作天地\xtntrna.github.io\source\map" />
       <recent name="D:\usr\我的博客\daodaodao\source" />
     </key>
   </component>
@@ -280,6 +277,7 @@
       <workItem from="1703555727796" duration="13175000" />
       <workItem from="1703643394228" duration="13698000" />
       <workItem from="1703727101206" duration="13403000" />
+      <workItem from="1703813981818" duration="6920000" />
     </task>
     <servers />
   </component>
