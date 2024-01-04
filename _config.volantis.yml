@@ -116,12 +116,19 @@ sidebar:
         icon: fa-regular fa-list-alt
         title: 阅读指引
 
+    direct_guide:
+      class: group
+      display: [desktop, mobile] # [desktop, mobile]
+      header:
+        icon: fa-regular fa-list-alt
+        title: 最直接的路径
+
     normal_guide:
       class: group
       display: [desktop, mobile] # [desktop, mobile]
       header:
         icon: fa-regular fa-list-alt
-        title: 地球人生指南/实用主义路径
+        title: 实用主义路径
 
 
 article:
