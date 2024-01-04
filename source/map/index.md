@@ -88,7 +88,7 @@ sidebar: [guide, category, map_guide, toc]
 ### 4. 哲学和科学路径
 因为现代教育的普及，科学方法论的思想已经深入人心，这是我们最好的凭借，借助已知的理论、理性思维和工具我们可以站到更高处来俯视我们这个世界，迅速发现问题并且接近我们想要的答案。
 <br>
-{% btn solid large center, 点击阅读, ./map003, fa fa-flag %}
+{% btn solid large center, 点击阅读, ./map004, fa fa-flag %}
 
 
 ## 二、核心框架简介
